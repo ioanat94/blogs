@@ -246,62 +246,55 @@ students[0] = 'John';  // works fine
 What are the outputs of these code snippets?
 
 
-
 1. ```js
-   let a = 1;
-   let b = 2;
-   b = 3;
+    let a = 1;
+    let b = 2;
+    b = 3;
    
    console.log(a);
    console.log(b);
    ```
 
-   **Answer:**
+    **Answer:**
 
-     ```js
-   1
-   3
-     ```
+    ```js
+    1
+    3
+    ```
 
-   **Reason:** Primitive values are independent - `a` and `b` are stored in different locations in memory. Therefore, modifying one does not affect the other.
-
-   
-
+    **Reason:** Primitive values are independent - `a` and `b` are stored in different locations in memory. Therefore, modifying one does not affect the other.
 2. ```js
-   let a = 'Who you gonna call?';
-   let b = a;
-   b = 'Ghostbusters!';
-   
-   console.log(a);
-   console.log(b);
-   ```
+    let a = 'Who you gonna call?';
+    let b = a;
+    b = 'Ghostbusters!';
+    
+    console.log(a);
+    console.log(b);
+    ```
+    
+    **Answer:**
+    
+    ```js
+    Who you gonna call?
+    Ghostbusters!
+    ```
 
-   **Answer:**
-
-     ```js
-   Who you gonna call?
-   Ghostbusters!
-     ```
-
-   **Reason:** Same as exercise 1.
-
-   
-
+    **Reason:** Same as exercise 1.  
 3. ```js
-   let a = { favoriteColor: 'red' };
-   let b = a;
-   a.favoriteColor = 'green';
-   
-   console.log(b.favoriteColor);
-   ```
-
-   **Answer:**
-
-     ```js
-   green
-     ```
-
-   **Reason:** Non-primitive values are stored as references to addresses in memory. Therefore, `a` and `b` share the same address, which means that changing one will also affect the other.
+    let a = { favoriteColor: 'red' };
+    let b = a;
+    a.favoriteColor = 'green';
+    
+    console.log(b.favoriteColor);
+    ```
+    
+    **Answer:**
+    
+    ```js
+    green
+    ```
+    
+    **Reason:** Non-primitive values are stored as references to addresses in memory. Therefore, `a` and `b` share the same address, which means that changing one will also affect the other.
 ---
 Thank you for reading the very first article in my Core JavaScript series! If you found this useful, if you have anything to add, or if I made any mistakes - I would love to hear from you! I'm also very open to suggestions for future topics for the series. 😊
 
