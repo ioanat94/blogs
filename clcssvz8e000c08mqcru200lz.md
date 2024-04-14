@@ -1,4 +1,14 @@
-# Core JavaScript: Scope
+---
+title: "Core JavaScript: Scope"
+seoTitle: "Core JavaScript: Scope"
+seoDescription: "This is an article in a series about core JavaScript principles. For beginners and more experienced developers in need of a refresher!"
+datePublished: Thu Jan 12 2023 08:00:08 GMT+0000 (Coordinated Universal Time)
+cuid: clcssvz8e000c08mqcru200lz
+slug: core-javascript-scope
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673508649345/5029ed75-943f-411a-b706-af495295d651.png
+tags: javascript, beginners, scope
+
+---
 
 ## **About the series**
 
