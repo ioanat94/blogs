@@ -1,4 +1,14 @@
-## Core JavaScript: Var vs. Let vs. Const
+---
+title: "Core JavaScript: Var vs. Let vs. Const"
+seoTitle: "Core JavaScript: Var vs. Let vs. Const"
+seoDescription: "This is the second article in a series about core JavaScript principles. For beginners and more experienced developers in need of a refresher!"
+datePublished: Wed Sep 07 2022 11:21:44 GMT+0000 (Coordinated Universal Time)
+cuid: cl7rj62hw00vlcxnv0mi1hs1r
+slug: core-javascript-var-vs-let-vs-const
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1662549291292/vmqKyax9X.png
+tags: javascript, beginners
+
+---
 
 ## About the series
 
