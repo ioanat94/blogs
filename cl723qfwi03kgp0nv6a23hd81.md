@@ -1,4 +1,14 @@
-## Do's and Don'ts of Creating Your Portfolio Website
+---
+title: "Do's and Don'ts of Creating Your Portfolio Website"
+seoTitle: "Do's and Don'ts of Creating Your Portfolio Website"
+seoDescription: "A portfolio website is something most developers will attempt to build. Here are 10 tips for a better experience - for you and your users."
+datePublished: Sat Aug 20 2022 16:15:27 GMT+0000 (Coordinated Universal Time)
+cuid: cl723qfwi03kgp0nv6a23hd81
+slug: dos-and-donts-of-creating-your-portfolio-website
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/tZc3vjPCk-Q/upload/v1661011848811/qjo3hECso.jpeg
+tags: user-interface, design, web-development, beginners, portfolio
+
+---
 
 A portfolio website is something most developers will attempt to build at some point in their careers. It can be a great tool for finding customers, getting hired, and showcasing your work, technical skills and know-how. 
 
