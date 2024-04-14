@@ -1,4 +1,14 @@
-## Core JavaScript: Primitive vs. Non-primitive Data Types
+---
+title: "Core JavaScript: Primitive vs. Non-primitive Data Types"
+seoTitle: "Core JavaScript: Primitive vs. Non-primitive Data Types"
+seoDescription: "This is the first article in a series about core JavaScript principles. For beginners and more experienced developers in need of a refresher!"
+datePublished: Thu Aug 25 2022 12:31:36 GMT+0000 (Coordinated Universal Time)
+cuid: cl790xu0e05gn36nv1pgh4fmn
+slug: core-javascript-primitive-vs-non-primitive-data-types
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661431803753/C1wbrIfFc.png
+tags: javascript, beginners
+
+---
 
 ## About the series
 
