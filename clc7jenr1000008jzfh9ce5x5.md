@@ -1,4 +1,14 @@
-# Core JavaScript: Hoisting
+---
+title: "Core JavaScript: Hoisting"
+seoTitle: "Core JavaScript: Hoisting"
+seoDescription: "This is an article in a series about core JavaScript principles. For beginners and more experienced developers in need of a refresher!"
+datePublished: Wed Dec 28 2022 10:51:33 GMT+0000 (Coordinated Universal Time)
+cuid: clc7jenr1000008jzfh9ce5x5
+slug: core-javascript-hoisting
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672224360504/07936c23-e72c-40ff-ab0d-d329b4e4b291.png
+tags: hosting, javascript, beginners
+
+---
 
 ## **About the series**
 
