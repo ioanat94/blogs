@@ -72,3 +72,5 @@ The Google Maps API is a huge service that allows you to use most of the Google 
 ---
 
 That's about it for this first devlog. It ended up being quite long but I expect future posts to be shorter, as I will probably work on this at a pretty slow pace (I already code every day for my job and I want to avoid getting burnt out). Thanks for reading and see you next time!
+
+P.S.: The GitHub [repository](https://github.com/ioanat94/scout-a-route) and [project board](https://github.com/users/ioanat94/projects/4) are now public!
